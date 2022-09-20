@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ld3z" alt="ld3z" /></a> </p>
 
-- 🔭 I’m currently working on [My Bucket](https://github.com/ld3z/my-bucket)
+- 🔭 I’m currently working on [my bucket](https://github.com/ld3z/my-bucket)
 
 - 🌱 I’m currently learning **Python**
 
